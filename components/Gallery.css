@@ -1,0 +1,22 @@
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em;
+  padding: 1em;
+}
+
+img {
+  width: 50px;
+  padding: 1em; 
+}
+
+.card {
+  border: 1px solid #000000;
+  padding: 2em;
+
+}
+
+h3{
+  color: blue;
+
+}
